@@ -36,5 +36,3 @@ async def on_message(message):
 
 # Bot起動
 client.run(TOKEN)
-if message.E.:
-  reply(EEE)
